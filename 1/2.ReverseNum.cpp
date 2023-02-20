@@ -26,6 +26,7 @@ int main()
         {
             printf("%d\n", i);
             printf("cbkjhd");
+            printf("cbkjhd");
         }
     }
 }
