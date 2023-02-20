@@ -25,6 +25,7 @@ int main()
         if (i * i == Reverse(i * i))
         {
             printf("%d\n", i);
+            printf("cbkjhd");
         }
     }
 }
